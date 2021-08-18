@@ -1,3 +1,4 @@
+//64010045 นางสาวกัลยรัตน์ ผูกโอสถ
 #include<stdio.h>
 #include<math.h>
 int main(){
